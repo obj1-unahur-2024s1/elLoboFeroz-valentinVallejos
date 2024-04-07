@@ -4,3 +4,4 @@ object wollok {
 		return 'I am Wolloktastic!'
 	}
 }
+// vamo a ver si funciona..
